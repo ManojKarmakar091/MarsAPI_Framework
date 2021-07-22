@@ -15,7 +15,7 @@
     "axios": "0.19.2",
     "config.ini": "0.0.60",
     "protractor": "^5.4.3",
-    "xlsx": "^0.15.5",
+    "xlsx": "^0.17.0",
     "@azure/cosmos": "3.5.2"
   },
   "devDependencies": {
